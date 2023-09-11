@@ -72,10 +72,10 @@ The app has two main screens:
 
 ## Screenshots
 
-![Home Page](task_2_1.png)
+![Home Page](images/task_2_1.png)
 
 
-![Editing Page](task_2_2.png)
+![Editing Page](images/task_2_2.png)
 
 
 ## Test
