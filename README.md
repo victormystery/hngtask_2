@@ -73,10 +73,10 @@ The app has two main screens:
 ## Screenshots
 
 ![Home Page](task_2_1.png)
-*Home Page (CV View)*
+
 
 ![Editing Page](task_2_2.png)
-*Editing Page*
+
 
 ## Test
 [Appetize.io](https://appetize.io/app/ygn4jonphyajueim2n6eq3kyga)
