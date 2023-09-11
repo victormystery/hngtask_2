@@ -21,7 +21,7 @@ Follow these steps to set up and run the Flutter CV application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/victormystery/hngtask_2.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -72,11 +72,14 @@ The app has two main screens:
 
 ## Screenshots
 
-![Home Page]
+![Home Page](task_2_1.png)
 *Home Page (CV View)*
 
-![Editing Page](screenshots/editing_page.png)
+![Editing Page](task_2_2.png)
 *Editing Page*
+
+## Test
+[Appetize.io](https://appetize.io/app/ygn4jonphyajueim2n6eq3kyga)
 
 ## Contributing
 
